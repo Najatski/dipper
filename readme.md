@@ -11,6 +11,7 @@ This is a python script that I somehow managed to throw together, which allows t
 1. Once you've installed python, open powershell and run:
 `pip install hidapi pyvjoy`
 2. Open the "Configure vJoy" application, and create a device in the first slot with at minimum 12 buttons. I think the default is higher than that, so maybe just leave it as is.
+3. Connect your controller to your PC, and make sure the switch on the bottom is on "PS4" mode.
 4. Try running the script.
 
 In theory, it should maybe, just maybe run in the state of which it is in. If you somehow have everything working, I reccomend using HidHide to hide the Riff Master so it is easier to use vJoy in Clone Hero.
