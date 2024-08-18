@@ -2,11 +2,11 @@
 This is a python script which allows the PlayStation PDP Riffmaster's vendor-defined whammy and tilt functionality to work in Clone Hero — and any other app if you really want. Why this hasn't been done until now (except for natively in [YARG](https://yarg.in/)), I am not sure.
 
 ## Dependencies
-* Python 3.12 (add to PATH)
+* [Python 3.12](https://www.python.org/downloads/release/python-3120/) (add to PATH)
   * `hidapi` module
   * `pyvjoy` module
-* vJoy
-* HidHide *(optional, but HIGHLY reccomended for regular use.)*
+* [vJoy](https://github.com/shauleiz/vJoy/releases)
+* [HidHide](https://github.com/nefarius/HidHide/releases) *(optional, but HIGHLY reccomended for regular use.)*
 
 ## How to use it
 1) Once you've installed python, open powershell and run:
