@@ -8,6 +8,7 @@ This is a python script that I somehow managed to throw together, which allows t
 * vJoy
 * HidHide *(optional, but HIGHLY reccomended for regular use.)*
 
+## How to use it
 1. Once you've installed python, open powershell and run:
 `pip install hidapi pyvjoy`
 2. Open the "Configure vJoy" application, and create a device in the first slot with at minimum 12 buttons. I think the default is higher than that, so maybe just leave it as is.
