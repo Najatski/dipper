@@ -26,7 +26,7 @@ Only in the GUI of v0.2.0-pre specifically, the script will stay running if the 
 ## Highly Recommended Extra Step
 I would highly recommend setting up HidHide. It makes sure that Clone Hero cannot see your  Riff Master, and only sees the vJoy controller. This resolves a few problems that the casual user is prone to face.
 
-(Here is the optimal setup.)[https://imgur.com/a/6wfv9IQ]
+[Here is the optimal setup.](https://imgur.com/a/6wfv9IQ)
 Note that your clone hero.exe is in its own location, so set it to where *you* installed it. Also, once you've properly set up HidHide, turn your controller off and back on.
 
 ## Tutorial ([YouTube Video](https://www.youtube.com/watch?v=yPgwkj3PYZ0))
