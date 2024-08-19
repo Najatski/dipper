@@ -1,6 +1,9 @@
 ## What is this?
 This is a python script which allows the PlayStation PDP Riffmaster's vendor-defined whammy and tilt functionality to work in Clone Hero — and any other app if you really want. Why this hasn't been done until now (except for natively in [YARG](https://yarg.in/)), I am not sure.
 
+## Known Problems
+Only in the GUI of v0.2.0-pre specifically, the script will stay running if the window is closed before the "stop" button was pressed. This is due to Tkinter being seperate from the rest of the script, only acting as a user friendly way to control things. To force close it, open task manager, find python, and end its process.
+
 ## Dependencies
 * [Python 3.12](https://www.python.org/downloads/release/python-3120/) (add to PATH)
   * `hidapi` module
@@ -20,8 +23,8 @@ This is a python script which allows the PlayStation PDP Riffmaster's vendor-def
 7. Map all of your controls as normal. Map your whammy, and on the tilt axis, just tilt your controller vigorously until it chooses the axis.
 8. Open the calibration menu and calibrate your axis to your liking. Most notably, the tilt axis will need adjusted. I reccommend boosting the sensitivity.
 
-
-Message me on Discord if you're interested in helping me make it work out of the box. (Najatski)
-
 ## Tutorial ([YouTube Video](https://www.youtube.com/watch?v=yPgwkj3PYZ0))
 [![whimsical tutorial](https://img.youtube.com/vi/yPgwkj3PYZ0/0.jpg)](https://www.youtube.com/watch?v=yPgwkj3PYZ0)
+
+## Note:
+Message me on Discord if you're interested in helping me make it work out of the box! @Najatski
