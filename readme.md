@@ -20,4 +20,8 @@ This is a python script which allows the PlayStation PDP Riffmaster's vendor-def
 7. Map all of your controls as normal. Map your whammy, and on the tilt axis, just tilt your controller vigorously until it chooses the axis.
 8. Open the calibration menu and calibrate your axis to your liking. Most notably, the tilt axis will need adjusted. I reccommend boosting the sensitivity.
 
+
 Message me on Discord if you're interested in helping me make it work out of the box. (Najatski)
+
+## Tutorial ([YouTube Video](https://www.youtube.com/watch?v=yPgwkj3PYZ0))
+[![whimsical tutorial](https://img.youtube.com/vi/yPgwkj3PYZ0/0.jpg)](https://www.youtube.com/watch?v=yPgwkj3PYZ0)
