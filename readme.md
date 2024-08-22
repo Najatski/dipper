@@ -7,7 +7,7 @@ Only in the GUI of v0.3.0-pre specifically, the script will stay running if the 
 ## Dependencies
 * [Python 3.12](https://www.python.org/downloads/release/python-3120/) (add to PATH)
   * `hidapi` module
-  * `pyvjoy` module
+  * `pyvjoystick` module
 * [vJoy](https://github.com/shauleiz/vJoy/releases)
 * [HidHide](https://github.com/nefarius/HidHide/releases) *(optional, but HIGHLY reccomended for regular use.)*
 
