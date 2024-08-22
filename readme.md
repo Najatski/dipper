@@ -8,8 +8,8 @@ Only in the GUI of v0.3.0-pre specifically, the script will stay running if the 
 * [Python 3.12](https://www.python.org/downloads/release/python-3120/) (add to PATH)
   * `hidapi` module
   * `pyvjoystick` module
-* [vJoy](https://github.com/shauleiz/vJoy/releases)
-* [HidHide](https://github.com/nefarius/HidHide/releases) *(optional, but HIGHLY reccomended for regular use.)*
+* [vJoy](https://github.com/njz3/vJoy/)
+* [HidHide](https://github.com/nefarius/HidHide/releases) with [this](https://imgur.com/a/6wfv9IQ) configuration. *(not required, but HIGHLY reccomended for regular use.)*
 
 ## How to use it
 1) Once you've installed python, open powershell and run:
