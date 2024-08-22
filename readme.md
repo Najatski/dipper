@@ -2,7 +2,7 @@
 This is a python script which allows the PlayStation PDP Riffmaster's vendor-defined whammy and tilt functionality to work in Clone Hero — and any other app if you really want. Why this hasn't been done until now (except for natively in [YARG](https://yarg.in/)), I am not sure.
 
 ## Known Problems
-Only in the GUI of v0.2.0-pre specifically, the script will stay running if the window is closed before the "stop" button was pressed. This is due to Tkinter being seperate from the rest of the script, only acting as a user friendly way to control things. To force close it, open task manager, find python, and end its process.
+Only in the GUI of v0.3.0-pre specifically, the script will stay running if the window is closed before the "stop" button was pressed. This is due to Tkinter being seperate from the rest of the script, only acting as a user friendly way to control things. To force close it, open task manager, find python, and end its process.
 
 ## Dependencies
 * [Python 3.12](https://www.python.org/downloads/release/python-3120/) (add to PATH)
