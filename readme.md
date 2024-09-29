@@ -13,7 +13,7 @@ Only in the GUI of v0.3.0-pre specifically, the script will stay running if the 
 
 ## How to use it
 1) Once you've installed python, open powershell and run:
-`pip install hidapi pyvjoy`
+`pip install hidapi pyvjoystick`
 2. Open the "Configure vJoy" application, and create a device in the first slot with at minimum 12 buttons. I think the default is higher than that, so maybe just leave it as is.
 3. Connect your controller to your PC, and make sure the switch on the bottom is on "PS4" mode.
 4. Try running the script. The script (should) open a blank box, that's how you know it's running if you have no errors.
