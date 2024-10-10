@@ -27,8 +27,6 @@ This is a program that acts as a bridge for the PlayStation PDP Riffmaster, and 
   * `hidapi` module
   * `vgamepad` module
 
-## Known Problems
-If you close the program before hitting "stop service," it will continute to run without a GUI. To stop it, open task manager and loop for "Python" or "Dipper.exe," depending on whether you used the .py file or .exe file respectively, and end the process.
 ## Tutorial ([YouTube Video](https://www.youtube.com/watch?v=yPgwkj3PYZ0)) (Outdated as of v1.0.0)
 [![whimsical tutorial](https://img.youtube.com/vi/yPgwkj3PYZ0/0.jpg)](https://www.youtube.com/watch?v=yPgwkj3PYZ0)
 
