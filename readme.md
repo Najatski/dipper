@@ -4,6 +4,7 @@
 This is a program that acts as a bridge for the PlayStation PDP Riffmaster, and allows the use of tilt and whammy functionalities on PC. It can be used on any PC game that supports controllers for the most part.
 
 ## How do I use it?
+1. Download and install the [ViGEmBus](https://github.com/nefarius/ViGEmBus/releases/latest) driver.
 1. Download the [latest release](https://github.com/Najatski/dipper/releases/latest) from the releases tab on the right side of the screen.
 2. If you downloaded `dipper.exe`, open it and skip to step 4.
 3. If you downloaded `dipper.py`:
