@@ -19,7 +19,7 @@ This is a program that acts as a bridge for the PlayStation PDP Riffmaster, and 
     2. If you **did not** set up HidHide, just move your whammy bar and it should select your controller.
 9. Open the calibration menu, and note the following:
     1. Left Trigger is mapped to your whammy bar. Adjust it to your liking.
-    2. Right Trigger is mapped to your tilt. You will _need_ to adjust this one. It activates when the top triangle is all the way to the right. Here is [my configuration](https://i.imgur.com/MehHxe1.png).
+    2. Right Trigger is mapped to your tilt. You may need to adjust this.
 
 ## Dependencies (only needed if you are using the Python file)
 * [Python 3.12](https://www.python.org/downloads/release/python-3120/) (add to PATH)
