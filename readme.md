@@ -13,6 +13,7 @@ This is a program that acts as a bridge for the PlayStation PDP Riffmaster, and 
     2. Run the script.
 5. If not already, make sure that your Riffmaster is on "PS4 Mode." The switch should be switched towards the center of the controller.
 6. Power your controller on and connect it to your PC through the dongle.
+7. In the Dipper GUI, hit "Connect" if it isn't already connected, and then hit "Start Service" to start the actual program.
 7. Set up [HidHide](https://github.com/nefarius/HidHide/releases) with [this](https://imgur.com/a/6wfv9IQ) configuration. Please note that your `Clone Hero.exe` is in its own location, so set it to where *you* installed it. Once you've properly set up HidHide, turn your controller off and back on. *(not a required step, but HIGHLY reccomended for regular use. )*
 ### If you plan to use it on Clone Hero, follow these steps:
 1. Open Clone Hero, hit space, and then "assign controller."
