@@ -6,7 +6,7 @@ This is a program that acts as a bridge for the PlayStation PDP Riffmaster, and 
 ## How do I use it?
 1. Download and install the [ViGEmBus](https://github.com/nefarius/ViGEmBus/releases/latest) driver.
 1. Download the [latest release](https://github.com/Najatski/dipper/releases/latest) from the releases tab on the right side of the screen.
-2. If you downloaded `dipper.exe`, open it and skip to step 4.
+2. If you downloaded `dipper.exe`, open it and skip to step 5.
 3. If you downloaded `dipper.py`:
     1. Make sure to install [Python 3.12](https://www.python.org/downloads/release/python-3120/) if not already installed. Add it to path during installation.
     1. Run this in powershell: `pip install hidapi vgamepad`
