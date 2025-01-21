@@ -1,3 +1,8 @@
+# Important Notice
+I no longer recommend using Dipper in 2025, as Dipper has been rewritten in C by another user for better performance. I would like to redirect anyone with a Riffmaster/Sony Rock Band controller to [Clipper](https://github.com/Rosalie241/clipper)
+
+Thank you.
+
 # Dipper - Riffmaster Tilt & Whammy on PC
 ![Preview of the GUI](https://i.imgur.com/aALKOTc.png)
 ## What is this?
